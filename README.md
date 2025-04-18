@@ -5,7 +5,7 @@ welcome to my GitHub profile! i'm a tech enthusiast who loves tinkering with com
 ## about me 🧑‍💻
 
 - i'm passionate about **linux**, **python** and **CTFs**
-- currently learning more about **back-end development** and **pentesting**
+- currently learning more about **algorithmic problem solving** and **pentesting**
 
 ## skills 🛠
 
