@@ -5,15 +5,14 @@ welcome to my GitHub profile! i'm a tech enthusiast who loves tinkering with com
 ## about me 🧑‍💻
 
 - i'm passionate about **linux**, **python** and **CTFs**
-- currently learning more about **algorithmic problem solving** and **pentesting**
 
 ## skills 🛠
 
-- **languages**: python, kotlin, c, c++, c#, javascript
+- **languages**: python, kotlin, c, c++, c#, golang
 - **tools**: linux, docker, git, qemu, virtualbox and more
 - **interests**: open-source, cybersecurity, devops, system administration, software development
 
 ## let's connect 🤝
 
 - feel free to open an issue or a pull request if you have any suggestions
-- you can reach me at [sys@recai.space](mailto:sys@recai.space)
+- you can reach me via [mail](mailto:sys@recai.space)
